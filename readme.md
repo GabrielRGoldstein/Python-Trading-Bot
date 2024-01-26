@@ -1,6 +1,6 @@
 Functioning python trading bot that utilizes Machine Learning sentiment analysis as well as bracket ordering with pre-defined take profit and stop-loss levels to trade SPY.
 
-Startup 🚀
+# Startup 🚀
 
     1. Create a virtual environment conda create -n trader python=3.10
     2. Activate it conda activate trader
